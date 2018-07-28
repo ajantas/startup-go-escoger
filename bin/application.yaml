@@ -1,0 +1,5 @@
+spring:
+  data:
+    cassandra:
+      keyspace-name: startup_go
+      contact-points: localhost
